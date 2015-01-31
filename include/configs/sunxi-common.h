@@ -74,6 +74,7 @@
 #define CONFIG_CMDLINE_TAG
 #define CONFIG_INITRD_TAG
 
+#define CONFIG_NAND
 #ifdef CONFIG_NAND
 
 #define CONFIG_NAND_SUNXI		1
